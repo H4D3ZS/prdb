@@ -19,7 +19,7 @@ setuptools.setup(
         "fastapi==0.94.1",
         "phonenumbers==8.13.7",
         "psycopg2==2.9.5",
-        "setuptools==65.6.3",
+        "setuptools==70.0.0",
         "sqlacodegen==3.0.0rc2",
         "SQLAlchemy==1.4.36",
         "starlette==0.26.1",
