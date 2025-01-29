@@ -22,6 +22,6 @@ setuptools.setup(
         "setuptools==65.6.3",
         "sqlacodegen==3.0.0rc2",
         "SQLAlchemy==1.4.36",
-        "starlette==0.26.1",
+        "starlette==0.40.0",
     ],
 )
